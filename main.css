@@ -1,0 +1,182 @@
+* {
+    font-family: calibri;
+    font-size: 20px;
+
+}
+
+.outerb {
+
+    
+    height:28.1cm;
+    width:21cm;
+    display:inline-block;
+    margin:auto;
+    margin-top: 10px;
+    
+  
+}
+
+
+
+.lborder {
+    background-color:dimgrey;
+    color:white;
+    line-height: 30px;
+    padding-left: 15px;
+    height: 28.1cm;
+    width: 9cm;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    display: inline-block;
+
+}
+
+.rborder {
+    position:absolute;
+    display: inline-block;
+    padding-left: 5px;
+    border:2px  solid black;
+    width: 11.3cm;
+    height: 28cm;
+    margin-top: 0%;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-right: 11px;
+    line-height:30px;
+    background-color: rgba(44, 64, 66, 0.205);
+    
+    
+
+}
+
+.name {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 45px;
+    margin-top:20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.title {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0%;
+}
+
+.title {
+    font-family: Ｐｒｅｖｉｅｗ;
+}
+
+.num,
+.mail,
+.add,
+.linkedin {
+    display: inline-block;
+    margin: 2px;
+
+}
+
+.edmargin {
+    margin: 2px;
+    margin-left: 8px;
+    
+}
+
+.edhmargin {
+
+    margin-bottom: 3px;
+    margin-top:3px;
+    font-size: 22px;
+}
+
+.expmargin {
+    margin: 2px;
+    font-size: 18px;
+}
+
+.expmargin1 {
+    margin: 0%;
+    margin-left: 8px;
+    font-size: 17px;
+
+
+}
+
+.explist {
+    margin-bottom: 3px;
+    text-align: justify;
+    padding-right: 10px;
+}
+.heading{
+    font-size: 21px;
+    text-align: center;
+    text-decoration-line: underline;
+    font-weight: 2000;
+    margin-bottom: 18px;
+   
+
+}
+.endline{
+    border:1px solid rgb(240, 230, 230);
+    width:310px;
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom:5px;
+    margin-top:5px;
+    
+    
+
+}
+
+.head2{
+    font-size: 21px;
+    text-decoration-line: underline;
+    font-weight: 2000;
+    margin-left: 5px;
+    text-align: justify;
+
+
+}
+.align{
+    text-align: justify;
+    text-size-adjust: 2px;
+    word-spacing: 2px;
+    line-height: 35px;
+   
+ 
+
+}
+.head3{
+    font-size: 19px;
+    text-decoration-line: underline;
+    font-weight: 2000;
+    margin-left:5px;
+
+}
+.linkedin{
+   text-decoration:none;
+   color:white;
+   
+}
+.prohead{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.content{
+    text-align: justify;
+    margin-right: 8px;
+}
+.content2{
+    /* text-align:justify; */
+    margin-right: 100px ;
+    margin-top: -150px;
+    float: right;
+}
+.content3{
+    text-decoration-line: underline;
+
+}
